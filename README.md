@@ -60,7 +60,6 @@ Me chamo Matheus Candido Dias, tenho 19 anos.Concluí o ensino médio na Firjan 
 <br/>
 <br/>
 
-### 📈Estatísticas
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscdiass&show_icons=true&theme=radical)
+
 
